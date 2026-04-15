@@ -3,5 +3,4 @@ A collection of time-dependent and time-independent Schrödinger equation solver
 - TI: Time-independent solvers
 - TD: Time-dependent solvers
 
-Inside each of the folders is a collection of solvers for each geometry. The structure of the codes is made to be as straight-forward as possible, and fully customizable.
-Please report any bugs, issues or suggestions to mario.amaro@fysik.se.
+Inside each of the folders is a collection of solvers for each geometry. The structure of the codes is made to be as straight-forward as possible, and fully customizable. Please report any bugs, issues or suggestions to mario.amaro@fysik.su.se.
